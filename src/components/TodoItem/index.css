@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.list-container {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+p {
+  color: black;
+  font-weight: 500;
+}
+button {
+  border: 2px solid #ff0b37;
+  margin-left: 10px;
+  background-color: transparent;
+  width: 80px;
+  height: 40px;
+  border-radius: 5px;
+  color: #ff0b37;
+}
